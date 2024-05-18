@@ -1,0 +1,1 @@
+// scrollReveal().reveal('.home-count,.heading',{origin})
